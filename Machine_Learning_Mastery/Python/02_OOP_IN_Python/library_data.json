@@ -1,0 +1,21 @@
+{
+  "books": [
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "isbn": "9780132350884",
+      "is_available": true,
+      "borrowed_by": null
+    },
+    {
+      "title": "Effective Python",
+      "author": "Brett Slatkin",
+      "isbn": "9780134853987",
+      "is_available": true,
+      "borrowed_by": null
+    }
+  ],
+  "members": [],
+  "admins": [],
+  "transactions": []
+}
