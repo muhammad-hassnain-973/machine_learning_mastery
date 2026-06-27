@@ -87,7 +87,7 @@ class Inbox:
 def main():
     tory = User('Tory')
     ramy = User('Ramy')        
-    
+    print("Starting email simulation...")
     tory.send_email(ramy, 'Hello', 'Hi Ramy, just saying hello!')
     ramy.send_email(tory, 'Re: Hello', 'Hi Tory, hope you are fine.')
     ramy.check_inbox()
