@@ -1,21 +1,17 @@
 # Machine Learning Mastery
 
-This repository is my personal learning journal for AI and machine learning.
+This repository is a practical learning log for my AI and machine learning journey.
 
-I am using it to document what I learn, what I build, what breaks, and how I improve over time. The goal is not just to collect code, but to show the process of learning in public: from Python fundamentals to data science, machine learning, and eventually deeper AI concepts.
+It is organized around small Python projects, OOP exercises, and experiment-driven practice. The goal is to track what I build, what I learn, and how the codebase grows from simple fundamentals into more structured applications.
 
-## About This Journey
+## Overview
 
-I am starting from the basics and moving step by step through the skills needed to become confident in AI/ML:
+The repository currently focuses on Python practice and object-oriented programming:
 
-- Python fundamentals
-- Data handling and analysis
-- Visualization and exploratory data analysis
-- Supervised and unsupervised machine learning
-- Model evaluation and improvement
-- Feature engineering
-- Real-world projects and experiments
-- AI concepts, tools, and practical applications
+- Python fundamentals and beginner utilities
+- Small standalone scripts with clear input/output behavior
+- OOP examples and mini systems
+- Supporting JSON data files for persistence and examples
 
 ## What You Will Find Here
 
