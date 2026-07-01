@@ -29,23 +29,7 @@ This repository will grow as I learn. It may include:
 - `README.md`
 - `Machine_Learning_Mastery/`
 	- `Python/`
-		- `01_Python_Fundamentals/`
-			- `caeser_cipher.py`
-			- `calculator.py`
-			- `medical_data_validator.py`
-			- `movie_ticket_booking_calculator.py`
-			- `Password_Strength_Checker.py`
-			- `Student_Grade_System.py`
-			- `Grand_Project/`
-				- `data.json`
-				- `personal_finance_manager.py`
-		- `02_OOP_IN_Python/`
-			- `email_simulator.py`
-			- `library_data.json`
-			- `library_management_system.py`
-			- `oop_concepts.ipynb`
-			- `planet_class.py`
-			- `salary_tracker.py`
+	- `SQL/`
 
 ## Learning Goals
 
