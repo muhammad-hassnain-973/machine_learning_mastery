@@ -1,0 +1,14 @@
+product_id,product_name,category,price
+1,Wireless Mouse,Electronics,161.66
+2,USB-C Hub,Electronics,11.13
+3,Bluetooth Speaker,Electronics,72.38
+4,Webcam,Electronics,59.69
+5,Laptop Stand,Electronics,185.44
+6,Python Crash Course,Books,170.79
+7,Deep Learning 101,Books,223.58
+8,SQL Cookbook,Books,26.3
+9,ML Interview Guide,Books,108.37
+10,Desk Lamp,Home,12.3
+11,Coffee Mug,Home,58.57
+12,Notebook Set,Home,128.81
+13,Office Chair,Home,11.5
