@@ -38,4 +38,4 @@ FROM order_items;
 SELECT category, AVG(price) AS avg_price, COUNT(DISTINCT product_id) AS n_products
 FROM products
 GROUP BY category
-HAVING AVG(price) > 50;
+HAVING avg_price > 50;
