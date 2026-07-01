@@ -12,11 +12,13 @@ GROUP BY u.country
 ORDER BY num_orders DESC;
 
 -- 3. HAVING — only countries with more than 20 orders
-SELECT u.country, COUNT(o.order_id) AS num_orders
-FROM users u
-JOIN orders o ON u.user_id = o.user_id
-GROUP BY u.country
-HAVING COUNT(o.order_id) > 20;
+SELECT u.country, count(o.order_id) as num_orders
+from users u
+join orders o on u.user_id=o.user_id
+GROUP by country
+having count(o.order_id)>20
+order by num_orders
+DESC
 
 -- 4. CASE WHEN — bucket data inline
 SELECT
