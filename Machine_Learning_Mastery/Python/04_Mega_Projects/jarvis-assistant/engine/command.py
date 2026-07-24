@@ -24,6 +24,10 @@ def process_command(command):
     elif "open linkedin" in command:
         webbrowser.open("https://linkedin.com")
         return "Opening LinkedIn"
+    
+    elif "open my linkedin" in command:
+        webbrowser.open("https://www.linkedin.com/in/muhammadhassnain973/")
+        return "Opening Your LinkedIn"
 
     elif command.startswith("play"):
         parts = command.split(" ", 1)
